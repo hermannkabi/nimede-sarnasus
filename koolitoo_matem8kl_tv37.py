@@ -1,5 +1,4 @@
 #Matemaatika TV 8. klassile ül 37
-#ÄRA UNUSTA FUNKTSIOONI KUTSE ÄRA MUUTA (RIDA 125)
 
 class_names = [
 "kaspar",
@@ -82,7 +81,7 @@ def get_longest_name(db):
     print(longest_int, longest)
 
 
-#Mõttetu
+
 def getNumberForName(name, compare):
     n = 0
     letters = []
@@ -98,7 +97,6 @@ def getNumberForName(name, compare):
 
 
 
-#Õige
 def getNumber(name, database):
     number_list = []
     for compare in database:

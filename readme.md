@@ -1,4 +1,3 @@
 #nimede-sarnasus
-This is a read-me file.
-Update!!!
+Nimede sarnasus on Matemaatika töövihiku 8.klassile ül 37 programmaatiline lahendus
 
